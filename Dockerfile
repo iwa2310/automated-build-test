@@ -1,2 +1,2 @@
 FROM dockersamples/static-site
-DNV AUTHOR="Fumito Iwashita"
+ENV AUTHOR="Fumito Iwashita"
